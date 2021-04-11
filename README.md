@@ -1577,3 +1577,287 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [TS node](https://github.com/TypeStrong/ts-node) is a TypeScript execution and REPL for node.js.
 
+# .NET Development
+
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719689-0d1e0400-fb39-11ea-82e5-331a8ff8060d.png">
+
+</p>
+
+**[Start building with .NET on Google Cloud](https://cloud.google.com/dotnet/)**
+
+**[.NET Documentation](https://cloud.google.com/dotnet/docs/)**
+
+## .NET Learning Resources
+
+[.NET](https://dotnet.microsoft.com/learn/dotnet/what-is-dotnet) is a developer platform with tools and libraries for building any type of app, including web, mobile, desktop, games, IoT, cloud, and microservices.
+
+[.NET documentation](https://docs.microsoft.com/en-us/dotnet/fundamentals/)
+
+[Getting started with .NET](https://docs.microsoft.com/en-us/dotnet/standard/get-started)
+
+[.NET Application Architecture Guide](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
+
+[Intro .NET Guide by JetBrains ](https://blog.jetbrains.com/dotnet/2020/07/09/introducing-the-net-guide-tutorials-and-tips-tricks-for-net-rider-and-resharper/)
+
+[C# documentation](https://docs.microsoft.com/en-us/dotnet/csharp/) write any application using the C# programming language on the .NET platform.
+
+## Tools
+
+[.NET Core](https://docs.microsoft.com/en-us/dotnet/core/introduction) is a cross-platform .NET implementation for websites, servers, and console apps on Windows, Linux, and macOS.The .NET Framework supports websites, services, desktop apps, and more on Windows. Xamarin/Mono is a .NET implementation for running apps on all the major mobile operating systems.
+
+[.NET runtime](https://github.com/dotnet/runtime) is a collection of libraries and shared host (dotnet) installers for all supported platforms, as well as the sources to .NET runtime and libraries.
+
+[ASP.NET Core](https://asp.net/) is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux. 
+
+[Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
+
+[Visual Studio](https://visualstudio.microsoft.com/) is an integrated development environment (IDE) from Microsoft; which is a feature-rich application that can be used for many aspects of software development. Visual Studio makes it easy to edit, debug, build, and publish your app. By using Microsoft software development platforms such as Windows API, Windows Forms, Windows Presentation Foundation, and Windows Store.
+
+[Rider](https://www.jetbrains.com/rider/) is a fast and powerful, cross-platform .NET IDE devloped by JetBrains to develop .NET, ASP.NET, .NET Core, Xamarin; or Unity applications for Windows, Mac, Linux.
+
+[Resharper](https://www.jetbrains.com/resharper/) is a [Visual Studio](https://visualstudio.microsoft.com/) Extension for .NET Developers that has On-the-fly code quality analysis for C#, VB.NET, XAML, ASP.NET, ASP.NET MVC, JavaScript, TypeScript, CSS, HTML, and XML. Letting you know right away if your code needs to be improved.
+
+[dotTrace](https://www.jetbrains.com/profiler/) is an .NET performance Profiler developed by Jet Brains. It helps users locate performance bottlenecks in a variety of .NET applications: desktop applications, .NET Core, ASP.NET, ASP.NET Core applications hosted on IIS or IIS Express web servers, Silverlight, WCF services, Windows services, Universal Windows Platform applications, and unit tests.
+
+[dotMemory](https://www.jetbrains.com/dotmemory/) is an .NET memory Profiler developed by Jet Brains. It allows the user to analyze memory usage in a variety of .NET and .NET Core applications: desktop applications, Windows services, ASP.NET web applications, IIS, IIS Express, arbitrary .NET processes, and more.
+
+[dotCover](https://www.jetbrains.com/dotcover/) is an .NET unit test runner and code coverage tool developed by Jet Brains. It helps the user figure out on-the-fly which unit tests are affected by your latest code changes, and automatically re-runs the affected tests for you. The continuous testing mode can be switched on for any unit test session.
+
+[Avalonia](https://avaloniaui.net/) is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS. 
+
+[Polly](https://github.com/App-vNext/Polly) is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. 
+
+[IdentityServer](https://identityserver.io/) is a free, open source [OpenID Connect](https://openid.net/connect/) and [OAuth 2.0](https://tools.ietf.org/html/rfc6749) framework for ASP.NET Core. IdentityServer4 incorporates all the protocol implementations and extensibility points needed to integrate token-based authentication, single-sign-on and API access control in your applications. 
+
+[ILSpy](https://github.com/icsharpcode/ILSpy) is the open-source .NET assembly browser and decompiler.
+
+[Hangfire](https://www.hangfire.io/) is an easy way to perform background job processing in your .NET and .NET Core applications with no Windows Service or Task Scheduler required.
+
+[React Native Windows](https://microsoft.github.io/react-native-windows/) is a ramework for building native Windows apps with React. [React Native](https://reactnative.dev/) is a framework developed by Facebook that enables you to build world-class application experiences on native platforms using a consistent developer experience based on JavaScript and React. 
+
+[ReactiveUI](https://reactiveui.net/) is a composable, cross-platform model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming, which is a paradigm that allows you to abstract mutable state away from your user interfaces and express the idea around a feature in one readable place and improve the testability of your application.
+
+[Refit](https://reactiveui.github.io/refit/) is the automatic type-safe REST library for .NET Core, Xamarin and .NET.It's heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface. 
+
+[MAUI](https://github.com/dotnet/maui) is the .NET Multi-platform App UI, a framework for building native device applications spanning mobile, tablet, and desktop. 
+
+[Quasar](https://github.com/quasar/Quasar) is a fast and light-weight remote administration tool coded in C#. The usage ranges from user support through day-to-day administrative work to employee monitoring. Providing high stability and an easy-to-use user interface, Quasar is the perfect remote administration solution for you.
+
+
+# Ruby Development
+
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93719684-07282300-fb39-11ea-98fd-90394a2df6f2.png">
+  <br />
+</p>
+
+**[Start building with Ruby on Google Cloud](https://cloud.google.com/ruby/)**
+
+**[Ruby Documentation](https://cloud.google.com/ruby/docs/)**
+
+## Ruby Learning Resources
+
+[Ruby](https://www.ruby-lang.org/en/) is a dynamic, open source programming language with a focus on simplicity and productivity. It has an elegant syntax that is natural to read and easy to write.
+
+[Ruby Documentation](https://www.ruby-lang.org/en/documentation/)
+
+[Ruby Community](https://www.ruby-lang.org/en/community/)
+
+[Ruby Gems](https://guides.rubygems.org/rubygems-basics/)
+
+[Ruby courses by Coursera](https://www.coursera.org/courses?query=ruby)
+
+[Learn Ruby course by Codecademy](https://www.codecademy.com/learn/learn-ruby)
+
+[Ruby Glossary](https://www.codecademy.com/articles/glossary-ruby)
+
+[Ruby in Twenty Minutes Quickstart](https://www.ruby-lang.org/en/documentation/quickstart/)
+
+[Getting started with a Ruby on Rails application on CircleCI.](https://circleci.com/docs/2.0/language-ruby/)
+
+[The Ruby Style Guide](https://rubystyle.guide)
+
+[Airbnb's Ruby Style Guide](https://github.com/airbnb/ruby)
+
+## Tools
+
+[RubyMine](https://www.jetbrains.com/ruby/) is a professional IDE developed by Jet Brains that provides support for Ruby, Ruby on Rails and web development.
+
+[Rails](https://rubyonrails.org/) is a web-application framework that includes everything needed to create database-backed web applications according to the [Model-View-Controller (MVC)](https://en.wikipedia.org/wiki/Model-view-controller) pattern. Understanding the MVC pattern is key to understanding Rails. MVC divides your application into three layers: Model, View, and Controller, each with a specific responsibility.
+
+[rbenv](https://github.com/rbenv/rbenv) allows to pick a Ruby version for your application and guarantee that your development environment matches production. Put rbenv to work with Bundler for painless Ruby upgrades and bulletproof deployments.
+
+[Prettier for Ruby](https://prettier.io/) is a plugin for the Ruby programming language and its ecosystem. prettier is an opinionated code formatter that supports multiple languages and integrates with most editors. The idea is to eliminate discussions of style in code review and allow developers to get back to thinking about code design instead.
+
+[Active Admin](https://activeadmin.info/) is a Ruby on Rails framework for creating elegant backends for website administration.
+
+[Capistrano](https://github.com/capistrano/capistrano) is a framework for building automated deployment scripts. Although Capistrano itself is written in Ruby, it can easily be used to deploy projects of any language or framework, be it Rails, Java, or PHP.
+
+[Spree](https://spreecommerce.org/) is an open source E-commerce platform for Rails 6 with a modern UX, optional PWA frontend, REST API, GraphQL, several official extensions and 3rd party integrations.
+
+[Sidekiq](https://sidekiq.org/) is a simple, efficient background processing for Ruby. It uses hreads to handle many jobs at the same time in the same process. It does not require Rails but will integrate tightly with Rails to make background processing dead simple.
+
+[Kaminari](https://github.com/amatsuda/kaminari/wiki) is a  Scope and Engine based, clean, powerful, and customizable  paginator for modern web app frameworks and ORMs.
+
+[React-Rails](https://github.com/reactjs/react-rails) is a flexible tool to use [React](http://facebook.github.io/react/) with Rails. By integrating React.js with Rails views and controllers, the asset pipeline, or webpacker.
+
+[Pry](https://github.com/pry/pry) is a runtime developer console and IRB alternative with powerful introspection capabilities.
+
+[Brakeman](https://brakemanscanner.org/) is a static analysis tool which checks Ruby on Rails applications for security vulnerabilities.
+
+[dotenv](https://github.com/bkeepers/dotenv) is a Ruby gem to load environment variables from `.env`.
+
+[Scientist](https://github.com/github/scientist) is a Ruby library for carefully refactoring critical paths.
+
+[fastlane](https://fastlane.tools/) is a tool written in Ruby for iOS and Android developers to automate tedious tasks like generating screenshots, dealing with provisioning profiles, and releasing your application.
+
+[Fluentd](https://www.fluentd.org/) collects events from various data sources and writes them to files, RDBMS, NoSQL, IaaS, SaaS, Hadoop and so on all written in Ruby.
+
+
+# PHP Development
+
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/93925949-bf85d080-fccb-11ea-9158-d8d967a03e60.png">
+  <br />
+ 
+</p>
+
+**[Start building with PHP on Google Cloud](https://cloud.google.com/php/)**
+
+**[PHP Documentation](https://cloud.google.com/php/docs/)**
+
+## PHP Learning Resources
+
+[PHP](https://www.php.net/) is a popular general-purpose scripting language that is especially suited to web development. Fast, flexible and pragmatic, PHP powers everything from your blog to the most popular websites in the world.
+
+[PHP 8](https://www.php.net/releases/8.0/en.php)
+
+[What's New in PHP 8 - Auth0](https://auth0.com/blog/whats-new-php-8/)
+
+[PHP Manual](https://www.php.net/manual/en/index.php)
+
+[MIT's PHP Code Style Guide](https://mitsloan.mit.edu/shared/content/PHP_Code_Style_Guide.php)
+
+[PHP Style Guide](https://gist.github.com/ryansechrest/8138375)
+
+[PHP tutorial by W3Schools](https://www.w3schools.com/php/)
+
+[PHP MySQL & CodeIgniter Course on Udemy](https://www.udemy.com/course/php-mysql-codeigniter-complete-guide/)
+
+## Tools
+
+[PhpStorm](https://www.jetbrains.com/phpstorm/) is a professional PHP IDE developed by Jet Brains for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.
+
+[Laravel](https://laravel.com/) is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling.
+
+[PHP Tools for Visual Studio/VS Code](https://www.devsense.com/en) is a an extension that turn Visual Studio into a powerful PHP development environment.
+
+[Symfony](https://symfony.com/) is a PHP framework for web and console applications and a set of reusable PHP components. Symfony is used by thousands of web applications (including BlaBlaCar.com and Spotify.com) and most of the [popular PHP projects](https://symfony.com/projects) (including Drupal and Magento).
+
+[CakePHP](https://cakephp.org) is a rapid development framework for PHP which uses commonly known design patterns like Associative Data Mapping, Front Controller, and MVC. CakePHP's main goal is to provide a structured framework that enables PHP users at all levels to rapidly develop robust web applications, without any loss to flexibility.
+
+[Composer](https://getcomposer.org/) is a tools helps you declare, manage, and install dependencies of PHP projects.
+
+[Guzzle](https://github.com/guzzle/guzzle) is a PHP HTTP client that makes it easy to send HTTP requests and trivial to integrate with web services.
+
+[DesignPatternsPHP](https://designpatternsphp.readthedocs.io/) is a collection of known design patterns and some sample code how to implement them in PHP 7.4. Every pattern has a small list of examples.
+
+[CodeIgniter](https://codeigniter.com/) is an Application Development Framework for people who build web sites using PHP. Its goal is to enable you to develop projects much faster than you could if you were writing code from scratch, by providing a rich set of libraries for commonly needed tasks, as well as a simple interface and logical structure to access these libraries. CodeIgniter lets you creatively focus on your project by minimizing the amount of code needed for a given task.
+
+[HHVM](https://hhvm.com/) is an open-source virtual machine designed for executing programs written in [Hack](https://hacklang.org/). HHVM uses a just-in-time (JIT) compilation approach to achieve superior performance while maintaining amazing development flexibility. HHVM should be used together with a webserver like the built in, easy to deploy [Proxygen](https://docs.hhvm.com/hhvm/basic-usage/proxygen), or a [FastCGI-based](https://docs.hhvm.com/hhvm/advanced-usage/fastCGI) webserver on top of nginx or Apache.
+
+[PHPUnit](https://phpunit.de/) is a programmer-oriented testing framework for PHP. It is an instance of the xUnit architecture for unit testing frameworks.
+
+[Phalcon](https://phalcon.io/) is an open source web framework delivered as a C extension for the PHP language providing high performance and lower resource consumption.
+
+[Swoole](https://www.swoole.co.uk/) is an event-driven asynchronous & coroutine-based concurrency networking communication engine with high performance written in C and C++ for PHP.
+
+[Matomo](https://matomo.org/) is a full-featured PHP MySQL software program that you download and install on your own webserver. At the end of the five-minute installation process, you will be given a JavaScript code. Simply copy and paste this tag on websites you wish to track and access your analytics reports in real-time.
+
+[Grav](https://getgrav.org/) is a Fast, Simple, and Flexible, file-based Web-platform. There is Zero installation required. Just extract the ZIP archive, and you are already up and running. It follows similar principles to other flat-file CMS platforms, but has a different design philosophy than most. Grav comes with a powerful Package Management System to allow for simple installation and upgrading of plugins and themes, as well as simple updating of Grav itself.
+
+[Whoops](https://filp.github.io/whoops/) is an error handler framework for PHP. Out-of-the-box, it provides a pretty error interface that helps you debug your web projects, but at heart it's a simple yet powerful stacked error handling system.
+
+[Slim](https://www.slimframework.com/) is a PHP micro framework that helps you quickly write simple yet powerful web applications and APIs. 
+
+
+# Bash/PowerShell Development
+
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
+  <br />
+</p>
+
+**[Start building with PowerShell on Google Cloud](https://cloud.google.com/powershell/)**
+
+**[PowerShell Documentation](https://cloud.google.com/powershell/docs/)**
+
+## Bash/PowerShell Learning Resources
+
+[Introduction to Bash Shell Scripting by Coursera](https://www.coursera.org/projects/introduction-to-bash-shell-scripting)
+
+[Bash: Shell Script Basics by Pluralsight](https://www.pluralsight.com/courses/bash-shell-scripting)
+
+[Bash/Shell by Codecademy](https://www.codecademy.com/catalog/language/bash)
+
+[Windows Remote Management in Ansible using PowerShell](https://docs.ansible.com/ansible/latest/user_guide/windows_winrm.html)
+
+[Getting Started with PowerShell](https://docs.microsoft.com/en-us/powershell/)
+
+[PowerShell in Azure Cloud Shell](https://aka.ms/cloudshell/powershell-docs)
+
+[Azure Functions using PowerShell](https://docs.microsoft.com/en-us/azure/azure-functions/functions-create-first-function-vs-code?pivots=programming-language-powershell)
+
+[Azure Automation runbooks](https://docs.microsoft.com/en-us/azure/automation/automation-runbook-types)
+
+[Using Visual Studio Code for PowerShell Development](https://docs.microsoft.com/en-us/powershell/scripting/dev-cross-plat/vscode/using-vscode?view=powershell-7)
+
+[Integrated Terminal in Visual Studio Code](https://code.visualstudio.com/docs/editor/integrated-terminal)
+
+[AWS Tools for Windows PowerShell](https://aws.amazon.com/powershell/)
+
+[PowerShell Best Practices and Style Guide](https://poshcode.gitbooks.io/powershell-practice-and-style)
+
+[AWS Command Line Interface and aws-shell Sample for AWS Cloud9](https://docs.aws.amazon.com/cloud9/latest/user-guide/sample-aws-cli.html)
+
+[Configuring Cloud Shell on Google Cloud](https://cloud.google.com/shell/docs/configuring-cloud-shell)
+
+[Google's Shell Style Guide](https://google.github.io/styleguide/shellguide.html)
+
+## Bash/ PowerShell Tools
+
+[Bash](https://www.gnu.org/software/bash/) is the GNU Project's shell(Bourne Again SHell), which is an sh-compatible shell that integrates together useful features from the Korn shell (ksh) and the C shell (csh).
+
+[PowerShell Core](https://microsoft.com/PowerShell) is a cross-platform (Windows, Linux, and macOS) automation and configuration tool/framework that works well with your existing tools and is optimized for dealing with structured data (JSON, CSV, XML, etc.), REST APIs, and object models. It also includes a command-line shell, an associated scripting language and a framework for processing cmdlets.
+
+[Azure PowerShell](https://docs.microsoft.com/en-us/powershell/azure/overview) is a set of cmdlets for managing Microsoft Azure resources directly from the PowerShell command line. 
+
+[Windows Subsystem for Linux (WSL)](https://docs.microsoft.com/en-us/learn/modules/get-started-with-windows-subsystem-for-linux/) is a compatibility layer developed by Microsoft for running Linux binary executables in a Executable/Linkable Format natively on Windows 10 and Windows Server.
+
+[AWS Shell](https://aws.amazon.com/cli/) is a command-line shell program that provides convenience and productivity features to help both new and advanced users of the AWS Command Line Interface.
+
+[Google Cloud Shell](https://cloud.google.com/shell/) is a free admin machine with browser-based command-line access for managing your infrastructure and applications on Google Cloud Platform.
+
+[VS Code Bash Debug](https://marketplace.visualstudio.com/items?itemName=rogalmic.bash-debug) is a bash debugger GUI frontend based on awesome bashdb scripts (bashdb now included in package).
+
+[VS Code Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode) is a Visual Studio Code extension utilizing the [bash language server](https://github.com/bash-lsp/bash-language-server/blob/master/bash-lsp), that is based on [Tree Sitter](https://github.com/tree-sitter/tree-sitter) and its [grammar for Bash](https://github.com/tree-sitter/tree-sitter-bash) and supports [explainshell](https://explainshell.com/) integration.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Google-Cloud-Guide/pulls).
+
+
+## License
+
+[Back to the Top](https://github.com/mikeroyal/OpenShift-Guide/blob/main/README.md#table-of-contents)
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).

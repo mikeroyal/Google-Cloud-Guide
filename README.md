@@ -47,7 +47,7 @@
 
 18. [Bash/PowerShell Development](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#bashpowershell-development)
 
-19. [C/C++ Development](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#c-c-development)
+19. [C/C++ Development](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#cc-development)
 
 20. [Rust Development](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#rust-development)
 

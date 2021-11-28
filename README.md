@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/143783613-11bd6483-1c74-4b2b-8247-0767fc86524b.png">
+  <br />
+</p>
  
 # Table of Contents
 
@@ -56,17 +60,13 @@
  
 **Google Cloud Platform (GCP) Architecture. Source: [Google Cloud](https://cloud.google.com/architecture/)**
 
-<p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/114321931-67c97e00-9ad2-11eb-9bd7-115d3591b393.png">
-  <br />
-</p>
 
 # Google Cloud Learning Resources
 
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
 
 
-[Google Cloud Platform] is a public cloud platform that lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
+[Google Cloud Platform](https://cloud.google.com/) is a public cloud platform that lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
 
 [Google Cloud Courses and Training](https://cloud.google.com/training/)
 

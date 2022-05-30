@@ -15,7 +15,7 @@
  
 # Table of Contents
 
-1. [Google Cloud Learning Resources](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#google-cloud-learning-resources)
+1. [Getting Started with Google Cloud](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#getting-started-with-google-cloud)
 
 2. [Google Cloud Tools](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#google-cloud-tools)
 
@@ -56,17 +56,15 @@
 20. [Rust Development](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#rust-development)
 
 
- <img src="https://user-images.githubusercontent.com/45159366/114321930-66985100-9ad2-11eb-9e7e-8eb883d7bf37.png">
- 
-**Google Cloud Platform (GCP) Architecture. Source: [Google Cloud](https://cloud.google.com/architecture/)**
-
-
-# Google Cloud Learning Resources
+# Getting Started with Google Cloud
 
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#table-of-contents)
 
-
 [Google Cloud Platform](https://cloud.google.com/) is a public cloud platform that lets you build, deploy, and scale applications, websites, and services on the same infrastructure as Google.
+
+<img src="https://user-images.githubusercontent.com/45159366/114321930-66985100-9ad2-11eb-9e7e-8eb883d7bf37.png">
+ 
+**Google Cloud Platform (GCP) Architecture. Source: [Google Cloud](https://cloud.google.com/architecture/)**
 
 ### Developer Resources
 
@@ -101,6 +99,7 @@
 - [Google Cloud Internet of Things (IoT)](https://developers.google.com/iot/)
 
 ### GCP Training & Courses
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
 
  - [Google Cloud Courses and Training](https://cloud.google.com/training/)
 
@@ -109,6 +108,31 @@
  - [Google Cloud Courses on Coursera](https://www.coursera.org/googlecloud)
 
  - [Google Cloud Courses on Udemy](https://www.udemy.com/topic/google-cloud/)
+ 
+ ### Books
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
+
+ - [Google Cloud Platform for Architects [PDF]](https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/)
+ 
+ - [Data Science on the Google Cloud Platform (2022)](https://www.google.com/books/edition/Data_Science_on_the_Google_Cloud_Platfor/TiRnEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [The Definitive Guide to Modernizing Applications on Google Cloud (2022)](https://www.google.com/books/edition/The_Definitive_Guide_to_Modernizing_Appl/8sdOEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Google Cloud Certified Professional Cloud Network Engineer Guide (2022)](https://www.google.com/books/edition/Google_Cloud_Certified_Professional_Clou/HfNPEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Google Cloud Certified Professional Cloud Architect Study Guide (2022)](https://www.google.com/books/edition/Google_Cloud_Certified_Professional_Clou/3YJlEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Google Cloud for DevOps Engineers (2021)](https://www.google.com/books/edition/Google_Cloud_for_DevOps_Engineers/DH8zEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Architecting Google Cloud Solutions (2021)](https://www.google.com/books/edition/Architecting_Google_Cloud_Solutions/HXUjEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Google Cloud Cookbook (2021)](https://www.google.com/books/edition/Google_Cloud_Cookbook/oAtHEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Official Google Cloud Certified Professional Data Engineer Study Guide (2020)](https://www.google.com/books/edition/Official_Google_Cloud_Certified_Professi/q0nhDwAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Building Serverless Applications with Google Cloud Run (2020)](https://www.google.com/books/edition/Building_Serverless_Applications_with_Go/PV4MEAAAQBAJ?hl=en&gbpv=0)
+ 
+ - [Building Google Cloud Platform Solutions](https://www.google.com/books/edition/Building_Google_Cloud_Platform_Solutions/ZjqPDwAAQBAJ?hl=en&gbpv=0)
 
 
 # Google Cloud Tools

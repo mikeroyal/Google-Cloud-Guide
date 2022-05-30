@@ -71,6 +71,7 @@
 **Google Cloud Platform (GCP) Architecture. Source: [Google Cloud](https://cloud.google.com/architecture/)**
 
 ### Developer Resources
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
 
 - [GCP pricing](https://cloud.google.com/pricing/)
 
@@ -103,6 +104,7 @@
 - [Google Cloud Internet of Things (IoT)](https://developers.google.com/iot/)
 
 ### GCP Training & Courses
+[Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
 
  - [Google Cloud Courses and Training](https://cloud.google.com/training/)
 

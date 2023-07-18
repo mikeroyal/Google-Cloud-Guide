@@ -7,6 +7,9 @@
  <a href="https://github.com/mikeroyal?tab=followers">
          <img alt="followers" title="Follow me for Updates" src="https://custom-icon-badges.demolab.com/github/followers/mikeroyal?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a> 	
 
+![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
+![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/google-cloud-guide?style=for-the-badge)
+
  #### A guide for getting started with Google Cloud including the Tools and Applications that will make you a better and more efficient engineer with Google Cloud.
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**

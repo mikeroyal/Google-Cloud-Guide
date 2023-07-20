@@ -205,6 +205,10 @@
 
 [Red Hat OpenShift on Google Cloud](https://cloud.google.com/solutions/partners/openshift-on-gcp) is a fully-managed and jointly supported Red Hat OpenShift offering that enables you to deploy stateful and stateless apps with nearly any language, framework, database, or service. It gives you a hosted environment entirely on Google Cloud. A hybrid environment where you maintain part of your workload on-premises or in a private hosting environment and migrate the rest to Google Cloud.
 
+[VSCode Bigquery Data View](https://marketplace.visualstudio.com/items?itemName=bstruct.vscode-bigquery) is an VSCode extension aims to bring most of the functionality of Bigquery to Visual Studio Code. Allowing the user to authenticate (using the gcloud CLI); list projects, dataset, and tables; view table content; and run queries.
+
+[vscode-bigquery](https://github.com/google/vscode-bigquery) is a Visual Studio Code (VS Code) extension that can query Google Cloud Platform's BigQuery analytics database from, and return results to, your editor. 
+
 
 # Google Cloud DevOps Tools Integration
 

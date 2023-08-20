@@ -1,7 +1,7 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/114321928-639d6080-9ad2-11eb-8297-5e6c10c1c792.png">
   <br />
- Google Cloud Platform (GCP) Guide
+ Google Cloud Platform (GCP) Guideklpd
 </h1>
 
  <a href="https://github.com/mikeroyal?tab=followers">

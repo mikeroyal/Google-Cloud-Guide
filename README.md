@@ -109,6 +109,12 @@
 
 - [Google Cloud Internet of Things (IoT)](https://developers.google.com/iot/)
 
+- ["The Google Cloud Developer Cheat Sheet" by Greg Wilson](https://github.com/gregsramblings/google-cloud-4-words) 
+  
+- ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) 
+  
+- [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) 
+
 ### GCP Training & Courses
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
 
@@ -119,6 +125,9 @@
  - [Google Cloud Courses on Coursera](https://www.coursera.org/googlecloud)
 
  - [Google Cloud Courses on Udemy](https://www.udemy.com/topic/google-cloud/)
+
+ - [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) 
+
 
  ### Books
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)

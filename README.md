@@ -154,6 +154,18 @@
  
  - [Building Google Cloud Platform Solutions](https://www.google.com/books/edition/Building_Google_Cloud_Platform_Solutions/ZjqPDwAAQBAJ?hl=en&gbpv=0)
 
+### YouTube Tutorials
+
+[Back to the Top](#table-of-contents)
+
+[![Getting started with Google Cloud](https://ytcards.demolab.com/?id=GKEk1FzAN1A&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Getting started with Google Cloud")](https://www.youtube.com/watch?v=GKEk1FzAN1A) 
+[![Introduction to Generative AI](https://ytcards.demolab.com/?id=G2fqAlgmoPo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introduction to Generative AI")](https://www.youtube.com/watch?v=G2fqAlgmoPo) 
+[![Google Cloud Data Analytics in 10 minutes](https://ytcards.demolab.com/?id=g-f_mWXK9sU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Google Cloud Data Analytics in 10 minutes")](https://www.youtube.com/watch?v=g-f_mWXK9sU) 
+[![Introduction to large language models](https://ytcards.demolab.com/?id=zizonToFXDs&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Introduction to large language models")](https://www.youtube.com/watch?v=zizonToFXDs) 
+[![Google Cloud Essentials Playlist](https://ytcards.demolab.com/?id=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Google Cloud Essentials Playlist")](https://www.youtube.com/watch?v=kzKFuHk8ovk&list=PLIivdWyY5sqKh1gDR0WpP9iIOY00IE0xL)
+[![This Week in Google Cloud Playlist](https://ytcards.demolab.com/?id=v-G65jZ9n04&list=PLIivdWyY5sqIxUCyOq0-FPNn5GZ2-XR45&pp=iAQB&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "This Week in Google Cloud Playlist")](https://www.youtube.com/watch?v=v-G65jZ9n04&list=PLIivdWyY5sqIxUCyOq0-FPNn5GZ2-XR45&pp=iAQB) 
+[![Google Cloud Certification](https://ytcards.demolab.com/?id=czOSHhHFHuE&list=PLBgogxgQVM9vKlU1BId8xvHIhJMCjm3jr&pp=iAQB&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Google Cloud Certification")](https://www.youtube.com/watch?v=czOSHhHFHuE&list=PLBgogxgQVM9vKlU1BId8xvHIhJMCjm3jr&pp=iAQB) 
+[![Prepare for a career using Google Cloud Playlist](https://ytcards.demolab.com/?id=ANBEHKjSV3Y&list=PLBgogxgQVM9vv068pn7a_uusTdsBt4Oej&pp=iAQB&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=240 "Prepare for a career using Google Cloud Playlist")](https://www.youtube.com/watch?v=ANBEHKjSV3Y&list=PLBgogxgQVM9vv068pn7a_uusTdsBt4Oej&pp=iAQB) 
 
 # Google Cloud Tools
 

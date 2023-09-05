@@ -23,9 +23,10 @@
 
 1. [Google Cloud Learning Resources](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#google-cloud-learning-resources)
  
-    - [Developer Resources](https://github.com/mikeroyal/Google-Cloud-Guide#developer-resources)
-    - [GCP Training & Courses](https://github.com/mikeroyal/Google-Cloud-Guide#gcp-training--courses)
-    - [GCP Books](https://github.com/mikeroyal/Google-Cloud-Guide#books)
+    - [Developer Resources](#developer-resources)
+    - [GCP Training & Courses](#gcp-training--courses)
+    - [GCP Books](#books)
+    - [YouTube Tutorials](#youtube-tutorials)
 
 2. [Google Cloud Tools](https://github.com/mikeroyal/Google-Cloud-Guide/blob/main/README.md#google-cloud-tools)
 

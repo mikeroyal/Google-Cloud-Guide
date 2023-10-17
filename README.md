@@ -189,6 +189,10 @@
 
 [Google Kubernetes Engine (GKE)](https://cloud.google.com/kubernetes-engine/) is a managed, production-ready environment for deploying containerized applications.
 
+[GKE Policy Automation](https://github.com/google/gke-policy-automation) - Tool and policy library for validating GKE clusters against configuration best practices.
+
+[Click to Deploy Charts Repo](https://github.com/GoogleCloudPlatform/click-to-deploy/tree/master/k8s) - Source for Google Click to Deploy solutions listed on [Google Cloud Marketplace](https://cloud.google.com/marketplace). Provide several examples with detailed READMEs on how-to install in a [Google Kubernetes Engine](https://cloud.google.com/kubernetes-engine) cluster.
+
 [Cloud Storage](https://cloud.google.com/storage) is a Object storage for companies of all sizes. Where store any amount of data and retrieve it as often as you would like to.
 
 [BigQuery](https://cloud.google.com/bigquery) is a serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for business agility.
@@ -216,6 +220,10 @@
 [Anthos](https://cloud.google.com/anthos/docs/concepts/overview) is a modern application management platform that provides a consistent development and operations experience for cloud and on-premises environments.
 
 [Terraformer](https://github.com/GoogleCloudPlatform/terraformer) is a CLI tool to generate(tf/json and tfstate) terraform files from existing infrastructure (reverse Terraform).
+
+[Forseti](https://forsetisecurity.org/) - Scan your GCP resources to ensure that access controls are set as you intended and protected against unsafe changes.
+
+[StartupOS](https://github.com/google/startup-os) - A monorepo with examples for using Google's Open Source tools and deploying to the cloud.
 
 [Jenkins on Google Cloud](https://cloud.google.com/jenkins) is a client tool that helps speed up, scale, and security from your Jenkins pipeline. 
 

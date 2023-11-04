@@ -133,6 +133,8 @@
  ### Books
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
 
+ - [Google Cloud Platform (GCP) Professional Cloud Network Engineer Certification Companion (2023)](https://a.co/d/7WL7jra)
+
  - [Google Cloud Platform for Architects [PDF]](https://www.programmer-books.com/google-cloud-platform-for-architects-pdf/)
  
  - [Data Science on the Google Cloud Platform (2022)](https://www.google.com/books/edition/Data_Science_on_the_Google_Cloud_Platfor/TiRnEAAAQBAJ?hl=en&gbpv=0)

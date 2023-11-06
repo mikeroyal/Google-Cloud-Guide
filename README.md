@@ -114,7 +114,13 @@
   
 - ["Google Cloud - Jumpstart, Tutorials & Community!" by David das Neves](https://www.linkedin.com/pulse/google-cloud-jumpstart-tutorials-community-david-das-neves/) 
   
-- [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications) 
+- [Awesome GCP Certifications](https://github.com/ddneves/awesome-gcp-certifications)
+
+- [Creating WireGuard VPN with Firezone in GCP - Medium](https://medium.com/@abdurrahman1270/creating-wireguard-vpn-with-firezone-in-gcp-3677266b7225)
+  
+- [WireGuard Server: Google Cloud Platform](https://wireguard.how/server/google-cloud-platform/)
+  
+- [Wireguard Server on GCP with Gl-iNet Beryl as a client](https://blog.kmassada.com/quickstart-wireguard-beryl-gcp/)
 
 ### GCP Training & Courses
 [Back to the Top](https://github.com/mikeroyal/Google-Cloud-Guide#table-of-contents)
